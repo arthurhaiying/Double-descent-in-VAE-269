@@ -1,5 +1,8 @@
+
 CS 269: double-descent in VAEs
 Haiying Huang, Zixiang Chen
+
+https://github.com/arthurhaiying/Double-descent-in-VAE-269
 
 Pytorch Skip-VAE implementation used for our CS269 project, which is built from a vanilla VAE implementation available 
 from https://github.com/timbmg/Sentence-VAE. We add skip-GRU decoder, extend the inference and interpolation methods,
